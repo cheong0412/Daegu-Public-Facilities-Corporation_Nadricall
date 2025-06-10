@@ -38,8 +38,7 @@
 ![4_수요상위3개지역구(13개격자)의격자간이동카운트도출](https://github.com/user-attachments/assets/b09561b7-22a3-4144-a615-5036fa643b3f)
 
 ### 5. 전체 대기시간 평균
-[5_전체대기시간평균](https://github.com/user-attachments/assets/1a8347b4-dcb2-4af7-8429-8784db01c668)
- 
+![5_전체대기시간평균](https://github.com/user-attachments/assets/1e7ec21a-19ee-47df-88c6-2a95c72f81c9)
 대기시간 평균을 5단계로 나누어 시각화
 
 #### - 결과적으로 버스정류장 노선 선정을 위해 수요가 많은 지역을 격자로 표현하여 13개의 격자 추출
