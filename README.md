@@ -23,22 +23,22 @@
 
 ## 분석 결과
 ### 1. 2021년도 시군구 출발지 및 목적지 수요 시각화
-![image.png](attachment:e4608824-d1b6-47e0-a8c7-61963d90b7d8:image.png)
+![1_2021년도시군구출발지및목적지수요조사](https://github.com/user-attachments/assets/0d7f740c-2a45-4e60-976b-febf259715c3)
 
 ### 2. 수요 상위 3개 지역구 시내 버스정류장 도출 및 격자 시각화 (포인트-버스 정류장, 격자–수요)
 - 1번 결과에서 가장 수요가 많은 달서구, 남구 그리고 대구의 중심지인 중구 지역을 기준으로 시각화 진행
 - 기존 버스정류장 반경 나드리콜 수요가 많은 버스 정류장을 도출하기 위해 수요가 많은 3개 지역 구의 기존 버스 정류장
 - 반경 나드리콜 수요가 많은 시중 버스 정류장 시각화, 버스 정류장 반경별 콜 수요가 많은 버스 정류장 시각화
-![image.png](attachment:afe3759f-4893-4006-9be4-9d47fc9d5796:image.png)
+![2_수요상위3개지역구시내버스정류장도출및격자시각화(포인트-버스정류장, 격자–수요](https://github.com/user-attachments/assets/9459ac1d-0e0f-42ff-9b16-1cd76d8db44e)
 
 ### 3. 수요 상위 3개 지역 구의 시내 버스 정류장 반경 기준 콜 수요가 많은 버스 정류장 Top 5 도출
-![image.png](attachment:ddb9cf47-1582-445b-9ea0-133b5dd46288:image.png)
+![3_수요상위3개지역구의시내버스정류장반경기준콜수요가많은버스정류장Top5 도출](https://github.com/user-attachments/assets/926be68b-fbc3-4aef-8c9a-7aeb4c63bc76)
 
 ### 4. 수요 상위 3개 지역 구(13개격자)의 격자 간 이동 카운트 도출
-![image.png](attachment:c9473a99-073e-48bf-807e-ad531ba37c3f:image.png)
+![4_수요상위3개지역구(13개격자)의격자간이동카운트도출](https://github.com/user-attachments/assets/b09561b7-22a3-4144-a615-5036fa643b3f)
 
 ### 5. 전체 대기시간 평균
-![image.png](attachment:2bba4e95-b8ab-4df1-b3f8-c7f6681dbe68:image.png)
+[5_전체대기시간평균](https://github.com/user-attachments/assets/1a8347b4-dcb2-4af7-8429-8784db01c668)
 - 대기시간 평균을 5단계로 나누어 시각화
 
 #### - 결과적으로 버스정류장 노선 선정을 위해 수요가 많은 지역을 격자로 표현하여 13개의 격자 추출
